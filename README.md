@@ -1,7 +1,7 @@
 # GO FLAMINGO TASK 1
 
 <br>
-<h2 align="center" >WIREFRAME MODEL <img src="https://github.com/user-attachments/assets/94c6fc19-95f4-4c09-9a76-b7a436eeff0a" width="5px" height="5px"></h2>
+<h2 align="center" >WIREFRAME MODEL <img src="https://github.com/user-attachments/assets/94c6fc19-95f4-4c09-9a76-b7a436eeff0a" width="25px" height="25px"></h2>
 <h2 align="center">Wireframe of an app interface using html and css.</h2>
 
 <p align="center">
