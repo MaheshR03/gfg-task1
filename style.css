@@ -1,0 +1,228 @@
+li{
+    list-style: none;
+}
+
+.list{
+    margin-left: -30px;
+    margin-top: -10px;
+}
+
+.head{
+    border:1px solid black;
+    width: 100px; 
+    block-size:40px;
+    margin-left: 400px;;
+}
+
+.head1{
+    border:1px solid black;
+    width: 604px;
+    block-size:40px;
+    margin-left: 501px;
+    margin-top: -42px;
+}
+
+.header{
+    margin: 10px;
+    font-size: medium;
+}
+
+.text{
+    margin-top: -1px;
+    font-size: medium;
+    background-color: lightgrey;
+}
+
+.button{
+    width: 93px;
+    height: 40px;
+    float:left;
+}
+
+.head2{
+    margin-left: 418px;
+}
+
+.mid1{
+    width: 510px;
+    block-size: 200px;
+    border: 1px solid black;
+    margin-left: 400px;
+    margin-top: 8px;
+    overflow-y:scroll;
+}
+
+.mid2{
+    width: 185px;
+    block-size: 200px;
+    border: 1px solid black;
+    margin-left: 920px;
+    margin-top: -201px;
+    overflow-y:scroll;
+    overflow-x: hidden;
+}
+
+.mid3{
+    width: 475px;
+    block-size: 160px;
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+.stats1{
+    width: 200px;
+    block-size: 300px;
+    margin-left: 400px;
+    border: 1px solid black;
+    margin-top:8px;
+    overflow-y: scroll;
+}
+
+.stats2{
+    width: 300px;
+    block-size: 30px;
+    margin-left: 610px;
+    margin-top: -301px;
+    border: 1px solid black;
+}
+
+.stats3{
+    width: 300px;
+    block-size: 260px;
+    border: 1px solid black;
+    margin-left: 610px;
+    margin-top: 8px;
+    overflow-y:scroll;
+}
+
+.bottom1{
+    block-size: 30px;
+    width: 200px;
+    border:1px solid black;
+    margin-left: 400px;
+    margin-top: 8px;
+}
+
+.bottom2{
+    block-size: 30px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 610px;
+    margin-top: -31.5px;
+}
+
+.bottom3{
+    block-size: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin-left:400px;
+    margin-top: 4px;
+    overflow-y:scroll;
+    overflow-x: hidden;
+}
+
+.bottom4{
+    block-size: 200px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: 610px;
+    margin-top: -201px;
+    overflow-y:scroll;
+}
+
+.bottom5{
+    block-size: 544px;
+    width: 185px;
+    border: 1px solid black;
+    margin-left: 920px;
+    margin-top: -545px;
+    overflow-y:scroll;
+}
+
+.sub1{
+    width: 182px;
+    block-size: 20px;
+    border: 1px solid black;
+}
+
+.sub2{
+    width: 182px;
+    block-size: 20px;
+    padding: 5px 5px 5px 5px;
+}
+
+.input{
+    width: 140px;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+
+.btn1{
+    width: 65px;
+    margin-top: 6px;
+    margin-left: 55px;
+}
+
+.btn2{
+    width: 65px;
+    margin-top: 6px;
+    margin-left: 55px;
+}
+
+.a{
+    margin-top: 2px;
+    margin-left: 78px;
+}
+
+.b{
+    margin-top: 8px;
+    margin-left: 60px;
+}
+
+.radio{
+    margin-top: 10px;
+}
+
+.r1{
+    margin-left: 220px;
+}
+
+
+/*.dot{
+    height: 20px;
+    width: 20px;
+    background-color: skyblue;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 130px;
+}*/
+.dot{
+    border-radius: 50%;
+    background-color: skyblue;
+}
+
+.d2{
+    position: relative;
+    top:-4px;
+}
+
+.d3{
+    position: relative;
+    top:-7px;
+}
+
+.d4{
+    position: relative;
+    top:-10px;
+}
+
+.d5{
+    position: relative;
+    top:-12px;
+}
+
+.d6{
+    position: relative;
+    top:-16px;
+}
