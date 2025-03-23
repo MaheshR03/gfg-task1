@@ -1,7 +1,7 @@
 # GO FLAMINGO TASK 1
 
 <br>
-<h2 align="center" >WIREFRAME MODEL ✎ᝰ.</h2>
+<h2 align="center" >WIREFRAME MODEL ⿻</h2>
 <h2 align="center">Wireframe of an app interface using html and css.</h2>
 
 <p align="center">
